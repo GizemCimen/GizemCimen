@@ -1,4 +1,4 @@
-# Hi there, I'm Gizem! 👩‍💻
+ Hi there, I'm Gizem 👩‍💻
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GizemCimen&show_icons=true&theme=radical)
