@@ -1,6 +1,5 @@
  Hi there, I'm Gizem 👩‍💻
- 
-I'm currently learning JavaScript, React.js
+
 
 <div align="center">
   <a href="https://github.com/GizemCimen">
